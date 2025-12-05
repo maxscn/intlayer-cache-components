@@ -1,0 +1,21 @@
+[
+  {
+    "key": "static",
+    "content": {
+      "getStarted": {
+        "main": {
+          "nodeType": "translation",
+          "translation": {
+            "en": "Get started by editing",
+            "fr": "Commencez par éditer",
+            "es": "Comience por editar"
+          }
+        },
+        "pageLink": "src/app/static/page.tsx"
+      }
+    },
+    "localId": "static::local::src/app/[locale]/static/page.content.ts",
+    "location": "local",
+    "filePath": "src/app/[locale]/static/page.content.ts"
+  }
+]

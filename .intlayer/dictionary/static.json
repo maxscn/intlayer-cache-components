@@ -1,0 +1,29 @@
+{
+  "key": "static",
+  "content": {
+    "nodeType": "translation",
+    "translation": {
+      "en": {
+        "getStarted": {
+          "main": "Get started by editing",
+          "pageLink": "src/app/static/page.tsx"
+        }
+      },
+      "fr": {
+        "getStarted": {
+          "main": "Commencez par éditer",
+          "pageLink": "src/app/static/page.tsx"
+        }
+      },
+      "es": {
+        "getStarted": {
+          "main": "Comience por editar",
+          "pageLink": "src/app/static/page.tsx"
+        }
+      }
+    }
+  },
+  "localIds": [
+    "static::local::src/app/[locale]/static/page.content.ts"
+  ]
+}

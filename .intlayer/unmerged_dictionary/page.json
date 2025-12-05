@@ -1,0 +1,21 @@
+[
+  {
+    "key": "page",
+    "content": {
+      "getStarted": {
+        "main": {
+          "nodeType": "translation",
+          "translation": {
+            "en": "Get started by editing",
+            "fr": "Commencez par éditer",
+            "es": "Comience por editar"
+          }
+        },
+        "pageLink": "src/app/[locale]/page.tsx"
+      }
+    },
+    "localId": "page::local::src/app/[locale]/page.content.ts",
+    "location": "local",
+    "filePath": "src/app/[locale]/page.content.ts"
+  }
+]

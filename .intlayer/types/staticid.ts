@@ -1,0 +1,30 @@
+/* eslint-disable */
+export default {
+  "key": "staticid",
+  "content": {
+    "nodeType": "translation",
+    "translation": {
+      "en": {
+        "getStarted": {
+          "main": "Get started by editing",
+          "pageLink": "app/[locale]/static/[id]/page.tsx"
+        }
+      },
+      "fr": {
+        "getStarted": {
+          "main": "Commencez par éditer",
+          "pageLink": "app/[locale]/static/[id]/page.tsx"
+        }
+      },
+      "es": {
+        "getStarted": {
+          "main": "Comience por editar",
+          "pageLink": "app/[locale]/static/[id]/page.tsx"
+        }
+      }
+    }
+  },
+  "localIds": [
+    "staticid::local::src/app/[locale]/static/[id]/page.content.ts"
+  ]
+} as const;
